@@ -1,2 +1,2 @@
 # hello-world
-Wg. tutoriala
+Wg. tutorialC
